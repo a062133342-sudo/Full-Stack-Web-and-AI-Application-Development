@@ -1,8 +1,20 @@
+# 2026.8.27
 what is CS?
-a subject that contain computation, problem-solving, information, and effects of computation.
+a subject that contains computation, problem-solving, information, and effects of computation.
 
 computational thinking:
 1. Decomposition 
 2. pattern recognition 
 3. abstraction
 4. algorithm thinking
+
+# 2026.8.31
+What is Github:
+a platform for developers to share ideas, and work together on code projects.
+
+Key vocabulary/workflow of Github:
+1. issue: problem
+2. branch: an independent workspace that allows users to develop features, fix bugs, or experiment with code without affecting the main project
+3. commit: save during the process of doing project
+4. pull request: a process to review and discuss before merging code
+5. merge: combine two branches
