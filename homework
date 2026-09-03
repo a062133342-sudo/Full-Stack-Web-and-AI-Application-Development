@@ -4,5 +4,6 @@ save the assignment
 Github example:
 Issue: constomers tell the chef that the food is not good enough
 Branch: the chef take the original recipe, and change some small details based on that
+Commit: save changes
 Pull request: let the constomers to taste the food
 Merge: put the new recipe into the menu
