@@ -23,3 +23,4 @@
 5. End with ideas, not decisions: Finish the meeting by collecting ideas
 
 ### how do the tips of both individual and group brainstorming help deal with the challenges for brainstorming?
+- For individual brainstorming, it lets people think their own ideas first, which can avoid conformity and stops people from following others. For group brainstorming, its rules make sure everyone’s ideas get heard, which reduce production blocking. This combination benefits the brainstorming process and increase productivity.
